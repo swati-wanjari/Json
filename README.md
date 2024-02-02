@@ -1,14 +1,15 @@
 # Json
 
-## John Kennedy
+##First name: John
+##Last name: Kennedy
 
-### Address 0:
-- **Street:** abc
-- **City:** Hyderabad
-- **State:** TL
+Address of 0 is...
+- Street: abc
+- City: Hyderabad
+- State: TL
 
-### Address 1:
-- **Street:** xyz
-- **City:** Chennai
-- **State:** TN
+Address of 1 is...
+- Street: xyz
+- City: Chennai
+- State: TN
 
